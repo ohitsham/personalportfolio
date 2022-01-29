@@ -618,7 +618,7 @@
 		#logo {
 			display: inline-block;
 			margin: 38px; /* margin: 20px was off */
-		
+			float: left;
 			height: 100px;
 			width: auto; /* correct proportions to specified height */
 			border-radius: 50%; /* makes it a circle */
